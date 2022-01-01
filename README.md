@@ -11,4 +11,4 @@ Visit the website <a href="http://303.itpwebdev.com/~sthuynh/final_project/" tar
 <strong>Task List:</strong> You can input an infinite amount of tasks. Each task has a check and a trash bin icon—-clicking the check strikes the task out and clicking the 
 trash deletes the task from the list.<br>
  <br>
-<strong>Change Theme:<strong> Users has four different themes to choose from.<br>
+<strong>Change Theme:</strong> Users has four different themes to choose from.<br>
